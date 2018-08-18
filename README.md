@@ -11,7 +11,7 @@ Please help refine and extend this guide. For example:
 * Add specific examples with code snippets or figures
 * Demonstrate guidelines through example notebooks
 * Organize content hierachically 
-* Apply a Jekyll layout (similar to [Open Source Guides](https://github.com/github/opensource.guide)
+* Apply a Jekyll layout, similar to [Open Source Guides](https://github.com/github/opensource.guide)
 * Anything else to strengthen the community of Jupyter Notebooks users 
 
 To make edits, please open an [issue](https://github.com/sbl-sdsc/jupyter-guide/issues), fork this repository, and send pull-requests.
