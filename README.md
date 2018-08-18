@@ -1,5 +1,5 @@
 # jupyter-guide
-Community guide for reproducible research and data science using Jupyter Notebook and Jupyter Lab
+Community guide for reproducible research and data science using Jupyter Notebook and Jupyter Lab.
 
 This repo is a collection of crowdsourced tips and guidelines.
 
@@ -8,9 +8,9 @@ The inital content is based on a workshop: "Reproducible Research and Interactiv
 Please help refine and extend this guide. For example:
 
 * Add or expand guidelines
-* Add specific example with screenshots or figures
+* Add specific examples with code snippets or figures
 * Demonstrate guidelines through example notebooks
-* Organzie content hierachically 
+* Organize content hierachically 
 * Apply a Jekyll layout (similar to [Open Source Guides](https://github.com/github/opensource.guide)
 * Anything else to strengthen the community of Jupyter Notebooks users 
 
