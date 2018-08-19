@@ -21,7 +21,11 @@ This guide is a community-resource of crowdsourced tips and guidelines.
 For suggestions please open an [issue](https://github.com/sbl-sdsc/jupyter-guide/issues). To contribute, fork this repository and send [pull-requests](https://github.com/sbl-sdsc/jupyter-guide/pull/new/master).
 
 ## Related Resources
+[JupyterCon 2018: Challenges and Guidelines for Reproducible Research
+and Interactive Education with Jupyter Notebook]
+(https://www.slideshare.net/pwrose/challenges-and-guidelines-for-reproducible-research-and-interactive-education-with-jupyter-note)
+
 [Software Development Best Practices for Computational Chemistry](https://github.com/choderalab/software-development)
 
 ## Acknowledgements
-The basic guidelines are a high-level summary of the workshop: "Reproducible Research and Interactive Education - Application of Jupyter Notebooks" held at UC San Diego on April 5, 2018.
+The basic guidelines are a high-level [summary](https://www.slideshare.net/pwrose/challenges-and-guidelines-for-reproducible-research-and-interactive-education-with-jupyter-note) of the workshop: "Reproducible Research and Interactive Education - Application of Jupyter Notebooks" held at UC San Diego on April 5, 2018.
