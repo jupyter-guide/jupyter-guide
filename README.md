@@ -29,6 +29,7 @@ and Interactive Education with Jupyter Notebook](https://www.slideshare.net/pwro
 ## Further Reading
 * Jupyter Notebooks – a publishing format for reproducible computational workflows (2016) Jupyter Dev. Team, IOS Press, doi: [10.3233/978-1-61499-649-1-87](https://dx.doi.org/10.3233/978-1-61499-649-1-87).
 * Exploration and Explanation in Computational Notebooks, A. Rule, et al. (2018) Proc. of the 2018 CHI Conference on Human Factors in Computing Systems, ACM, doi: [10.1145/3173574.3173606](https://doi.org/10.1145/3173574.3173606).
+* Enabling Reproducible	NGS Analysis Through Automated Jupyter Pipelines, A. Birmingham (2018) [link](http://compbio.ucsd.edu/wp-content/uploads/2016/10/20170206_reproducible_analysis_thru_jupyter_notebooks.pdf)
 * Binder 2.0 - Reproducible, interactive, sharable environments for science at scale, Project Jupyter, et al. (2018) Proc. of the 17th Python in Science Conf. [(SCIPY 2018)](http://conference.scipy.org/proceedings/scipy2018/pdfs/project_jupyter.pdf).
 
 ## Acknowledgements
