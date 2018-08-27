@@ -26,6 +26,8 @@ and Interactive Education with Jupyter Notebook](https://www.slideshare.net/pwro
 
 [Software Development Best Practices for Computational Chemistry](https://github.com/choderalab/software-development)
 
+[Data Carpentry - Reproducible Research using Jupyter Notebooks](https://reproducible-science-curriculum.github.io/workshop-RR-Jupyter/)
+
 [Reproducible Computational Research](https://wrdrd.github.io/docs/consulting/data-science#tensimplerules-for-reproducible-computational-research)
 
 [Education Technology - Jupyter and Reproducibility](https://wrdrd.github.io/docs/consulting/education-technology#jupyter-and-reproducibility)
