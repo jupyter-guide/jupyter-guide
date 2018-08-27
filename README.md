@@ -26,6 +26,10 @@ and Interactive Education with Jupyter Notebook](https://www.slideshare.net/pwro
 
 [Software Development Best Practices for Computational Chemistry](https://github.com/choderalab/software-development)
 
+[Reproducible Computational Research](https://wrdrd.github.io/docs/consulting/data-science#tensimplerules-for-reproducible-computational-research)
+
+[Education Technology - Jupyter and Reproducibility](https://wrdrd.github.io/docs/consulting/education-technology#jupyter-and-reproducibility)
+
 ## Further Reading
 * Jupyter Notebooks – a publishing format for reproducible computational workflows (2016) Jupyter Dev. Team, IOS Press, doi: [10.3233/978-1-61499-649-1-87](https://dx.doi.org/10.3233/978-1-61499-649-1-87).
 * Exploration and Explanation in Computational Notebooks, A. Rule, et al. (2018) Proc. of the 2018 CHI Conference on Human Factors in Computing Systems, ACM, doi: [10.1145/3173574.3173606](https://doi.org/10.1145/3173574.3173606).
