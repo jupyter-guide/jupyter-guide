@@ -12,13 +12,13 @@ This guide is a community-resource of crowdsourced guidelines and tutorials for 
 * Apply a Jekyll layout, similar to [Open Source Guides](https://github.com/github/opensource.guide)
 * Anything else to strengthen the community of Jupyter Notebooks users 
 
-For suggestions please open an [issue](https://github.com/sbl-sdsc/jupyter-guide/issues). To contribute, fork this repository and send [pull-requests](https://github.com/sbl-sdsc/jupyter-guide/pull/new/master).
+For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-guide/issues). To contribute, fork this repository and send [pull-requests](https://github.com/jupyter-guide/jupyter-guide/pull/new/master).
 
 ## Guides and Tutorials
 
-* [__Deploy your notebooks__](https://github.com/sbl-sdsc/jupyter-guide/blob/master/deployment.md): How to share your notebooks
+* [__Deploy your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/deployment.md): How to share your notebooks
 
-* [__Parameterize your notebooks__](https://github.com/sbl-sdsc/jupyter-guide/blob/master/parameterize.md): How to pass in parameters to notebooks
+* [__Parameterize your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/parameterize.md): How to pass in parameters to notebooks
 * Other sections (to be written)
 
 
