@@ -19,6 +19,9 @@ For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-
 * [__Deploy your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/deployment.md): How to share your notebooks
 
 * [__Parameterize your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/parameterize.md): How to pass in parameters to notebooks
+
+* [__Typeset equations__](https://github.com/jupyter-guide/jupyter-guide/blob/equations.md)
+
 * Other sections (to be written)
 
 
