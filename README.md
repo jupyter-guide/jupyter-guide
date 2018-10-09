@@ -20,7 +20,7 @@ For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-
 
 * [__Parameterize your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/parameterize.md): How to pass in parameters to notebooks
 
-* [__Typeset equations__](https://github.com/jupyter-guide/jupyter-guide/blob/equations.md)
+* [__Typeset equations__](https://github.com/jupyter-guide/jupyter-guide/blob/master/equations.md)
 
 * Other sections (to be written)
 
