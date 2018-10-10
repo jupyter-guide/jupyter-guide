@@ -9,7 +9,8 @@ This guide is a community-resource of crowdsourced guidelines and tutorials for 
 * Explain details with code snippets or figures
 * Demonstrate guidelines through example notebooks
 * Organize content 
-* Apply a Jekyll layout, similar to [Open Source Guides](https://github.com/github/opensource.guide)
+* Setup this repo as a [Jupyter Book](https://predictablynoisy.com/jupyter-book-guide/)
+* See [Open Source Guides](https://github.com/github/opensource.guide) for some inspiration
 * Anything else to strengthen the community of Jupyter Notebooks users 
 
 For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-guide/issues). To contribute, fork this repository and send [pull-requests](https://github.com/jupyter-guide/jupyter-guide/pull/new/master).
