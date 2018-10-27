@@ -17,11 +17,13 @@ For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-
 
 ## Guides and Tutorials
 
-* [__Deploy your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/deployment.md): How to share your notebooks
+* [__Parameterize your notebooks__](chapters/parameterize.md): How to pass in parameters to notebooks
 
-* [__Parameterize your notebooks__](https://github.com/jupyter-guide/jupyter-guide/blob/master/parameterize.md): How to pass in parameters to notebooks
+* [__Test your notebooks__](chapters/test.md): How to validate your to notebooks
 
-* [__Typeset equations__](https://github.com/jupyter-guide/jupyter-guide/blob/master/equations.md)
+* [__Deploy your notebooks__](chapters/deployment.md): How to share your notebooks
+
+* [__Typeset equations__](chapters/equations.md)
 
 * Other sections (to be written)
 
