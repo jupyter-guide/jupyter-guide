@@ -22,7 +22,7 @@ You can export to a variety of formats from within the notebook by navigating to
 ...
 
 ## Create Docker Image of your Repository
-[Jupytoer Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
+[Jupyter Docker Stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
 
 [Docker Stacks Repo](https://github.com/jupyter/docker-stacks)
 
