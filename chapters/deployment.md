@@ -29,7 +29,6 @@ You can export to a variety of formats from within the notebook by navigating to
 ...
 
 ## Setup JupyterHub to host your Notebooks on a server
-
 [JupyterHub Installation Guide](https://jupyterhub.readthedocs.io/en/stable/installation-guide.html)
 
 [Installation of Jupyterhub on remote server](https://github.com/jupyterhub/jupyterhub/wiki/Installation-of-Jupyterhub-on-remote-server)
