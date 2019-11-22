@@ -25,6 +25,8 @@ For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-
 
 * [__Typeset equations__](chapters/equations.md)
 
+* [Demonstrating Rule 3 with a Jupyter Notebook](chapters/Index&Markdown_TenRuleExample.ipynb)
+
 * Other sections (to be written)
 
 ## Cookiecutters
