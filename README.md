@@ -25,6 +25,8 @@ For suggestions please open an [issue](https://github.com/jupyter-guide/jupyter-
 
 * [__Typeset equations__](chapters/equations.md)
 
+* [__Export your notebooks__](chapters/export.md): How to make and check HTML and PDF copies of your notebooks
+
 * [__Example Notebooks__](notebooks)
 
 * Other sections (to be written)
